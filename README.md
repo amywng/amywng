@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there! I'm Amy 👋
 
 ### 😄 Pronouns: she/her/hers
+### Welcome to my profile! I'm currently a student studying computer science and media arts. Thanks for visiting!
 <!--
 
 Here are some ideas to get you started:
