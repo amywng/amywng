@@ -1,17 +1,16 @@
-### Hi there! I'm Amy 👋
+### Hi, I'm Amy 👋
 
-### 😄 Pronouns: she/her/hers
-### Welcome to my profile! I'm currently a student studying computer science and media arts. Thanks for visiting!
-<!--
+Here's where you can find me:
+[https://www.linkedin.com/in/amy-wang-17b526248/]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A bit more information...
+```javascript
+const amy = {
+  pronouns: "she" | "her",
+  education: {
+      school: "Northeastern University",
+      major: "Computer Science and Media Arts"
+  }
+  code: [Java, Javascript, Python, HTML, CSS, Racket]
+}
+```
