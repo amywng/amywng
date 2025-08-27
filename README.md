@@ -11,8 +11,8 @@ const amy = {
   education: {
       school: "Northeastern University",
       major: "Computer Science and Media Arts",
-      year: 2
+      year: 3
   },
-  code: [Java, JavaScript, TypeScript, Python, HTML, CSS, Racket]
+  code: [Java, Kotlin, JavaScript, TypeScript, Ruby, Python, HTML, CSS, Racket]
 }
 ```
